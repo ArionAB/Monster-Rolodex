@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Udemy-React/static/css/main.a57c9d51.chunk.css",
+    "main.js": "/Udemy-React/static/js/main.328e5bf7.chunk.js",
+    "main.js.map": "/Udemy-React/static/js/main.328e5bf7.chunk.js.map",
+    "runtime-main.js": "/Udemy-React/static/js/runtime-main.96b2db21.js",
+    "runtime-main.js.map": "/Udemy-React/static/js/runtime-main.96b2db21.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/Udemy-React/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/Udemy-React/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/Udemy-React/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/Udemy-React/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/Udemy-React/index.html",
+    "static/css/main.a57c9d51.chunk.css.map": "/Udemy-React/static/css/main.a57c9d51.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/Udemy-React/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96b2db21.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.a57c9d51.chunk.css",
+    "static/js/main.328e5bf7.chunk.js"
+  ]
+}
